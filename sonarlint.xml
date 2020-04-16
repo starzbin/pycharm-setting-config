@@ -1,0 +1,26 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="javascript:S3317" />
+        <option value="javascript:S905" />
+      </set>
+    </option>
+    <option name="fileExclusions">
+      <list>
+        <option value="*.py" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df92dfcedfcbdfcbdfc9df9cdfcedf9fdf93dfc9df93df99df9fdfc8df9edf9fdf9adf9edf99df93df9bdfccdfc8df98df98df9ddf92df9fdfcfdf9bdf99df9adf9ddf9adfccdfcbdf9cdfcbdfcfdf9c</token>
+          <option name="name" value="kofmj" />
+          <organizationKey>kofmj-github</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

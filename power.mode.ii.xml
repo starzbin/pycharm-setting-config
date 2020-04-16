@@ -1,0 +1,6 @@
+<application>
+  <component name="PowerModeII">
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="shakeEnabled" value="false" />
+  </component>
+</application>

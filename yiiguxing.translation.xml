@@ -1,0 +1,81 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastReplacementTargetLanguage" value="ENGLISH" />
+    <histories>
+      <item value="clock" />
+      <item value="tax" />
+      <item value="utility bill" />
+      <item value="communications subsidy" />
+      <item value="performance bonus" />
+      <item value="overtime hours" />
+      <item value="overtime saturday" />
+      <item value="saturdays duty" />
+      <item value="actual attendance days" />
+      <item value="overtime hours holiday" />
+      <item value="You have entered malformed replacement string" />
+      <item value="Http Response Not Found" />
+      <item value="Http Response Bad Request" />
+      <item value="Http Response Not Modified" />
+      <item value="Http Response Redirect" />
+      <item value="Http Response Server Error" />
+      <item value="Http Response Gone" />
+      <item value="Http Response Not Allowed" />
+      <item value="Cansole" />
+      <item value="subsidies payable" />
+      <item value="performance" />
+      <item value="eat subsidy" />
+      <item value="operation type" />
+      <item value="period" />
+      <item value="amount" />
+      <item value="leave" />
+      <item value="early" />
+      <item value="utility" />
+      <item value="actual" />
+      <item value="absolute" />
+      <item value="common" />
+      <item value="Return True if bool(x) is True for all values x in the iterable.          If the iterable is empty, return True." />
+      <item value="Return True if bool(x) is True for all values x in the iterable.&#10;    &#10;    If the iterable is empty, return True." />
+      <item value="Save model instances for every form, adding and changing instances&#10;        as necessary, and return the list of instances." />
+      <item value="initial" />
+      <item value=" Look up an object with the given kwargs, updating one with defaults&#10;        if it exists, otherwise create a new one.&#10;        Return a tuple (object, created), where created is a boolean&#10;        specifying whether an object was created." />
+      <item value="Look up an object with the given kwargs, updating one with defaults&#10;        if it exists, otherwise create a new one.&#10;        Return a tuple (object, created), where created is a boolean&#10;        specifying whether an object was created." />
+      <item value="Dependency on app with no migrations: payroll" />
+      <item value="Add or change a related_name argument to the definition for 'User.groups' or 'WXUser.groups'" />
+      <item value="Reverse accessor for 'User.groups' clashes with reverse accessor for 'WXUser.groups'" />
+      <item value=" sequence item 0: expected str instance, Channel found " />
+      <item value=" failed with repodata from current_repodata.json, will retry with next repodata source. " />
+      <item value="failed with initial frozen solve. Retrying with flexible solve." />
+      <item value="Generate string representation of XML element.      All subelements are included.  If encoding is &quot;unicode&quot;, a string     is returned. Otherwise a bytestring is returned.      *element* is an Element instance, *encoding* is an optional output     encoding defaulting to US-ASCII, *method* is an optional output which can     be one of &quot;xml&quot; (default), &quot;html&quot;, &quot;text&quot; or &quot;c14n&quot;.      Returns an (optionally) encoded string containing the XML data" />
+      <item value="Generate string representation of XML element.&#10;&#10;    All subelements are included.  If encoding is &quot;unicode&quot;, a string&#10;    is returned. Otherwise a bytestring is returned.&#10;&#10;    *element* is an Element instance, *encoding* is an optional output&#10;    encoding defaulting to US-ASCII, *method* is an optional output which can&#10;    be one of &quot;xml&quot; (default), &quot;html&quot;, &quot;text&quot; or &quot;c14n&quot;.&#10;&#10;    Returns an (optionally) encoded string containing the XML data" />
+      <item value="unicodeescape' codec can't decode bytes in position 562-563: truncated \UXXXXXXXX escape" />
+      <item value="detail" />
+      <item value="secuprop" />
+      <item value="Parse a string to a time tuple according to a format specification.&#10;    See the library reference manual for formatting codes (same as&#10;    strftime()" />
+      <item value=" Convert seconds since the Epoch to a time tuple expressing local time.&#10;    When 'seconds' is not passed in, convert the current time instead." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
+        <entry key="FRENCH" value="2" />
+        <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="PORTUGUESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Arial" />
+    <option name="primaryFontFamily" value="Consolas-with-Yahei" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1d6fc3f7eccfd31e" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

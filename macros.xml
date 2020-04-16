@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="kofmj">
+      <typing text-keycode="222:0;222:0;222:0">'''</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+    </macro>
+  </component>
+</application>
